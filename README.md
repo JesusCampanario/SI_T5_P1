@@ -13,5 +13,5 @@ Para que detecte las teclas :
 Cuando el usuario escriba la tecla space nos escriba un espacio :
         ```python 
         if teclas.name == "space":
-            archivo.write(" ")
+        archivo.write(" ")
         ```
